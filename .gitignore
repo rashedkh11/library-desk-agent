@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Environment
+.env
+
+# Database
+db/library.db
+db/*.db
+
+# Chainlit
+.chainlit/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

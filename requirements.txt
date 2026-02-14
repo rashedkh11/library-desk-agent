@@ -1,0 +1,5 @@
+langchain-groq==0.2.1
+langchain-core==0.3.28
+pydantic==2.10.4
+python-dotenv==1.0.1
+chainlit
