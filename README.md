@@ -120,7 +120,6 @@ library-desk-agent/
 - Python 3.8+
 - Groq (Llama 3.3 70B) - Free API
 - LangChain
-- Chainlit UI
 - SQLite
 
 ## Troubleshooting
