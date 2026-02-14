@@ -134,10 +134,6 @@ Run only one instance at a time
 **"Book not found"**  
 Tools accept titles: `"Python"` finds `"Python Crash Course"`
 
-## License
 
-MIT
-
----
 
 **Built for librarians. Talk to your library naturally.**
